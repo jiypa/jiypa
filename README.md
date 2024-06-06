@@ -39,12 +39,12 @@ Hi there, I'm yeebay 👋
 
 ---
 
-<div style="display: flex; gap: 1rem">
-
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=jiypa&show_icons=true&theme=dark" alt="yeebay's GitHub Stats" />
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jiypa&layout=compact&langs_count=6&theme=dark" alt="yeebay's Top Languages" />
-
-</div>
+<a href="https://github.com/jiypa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jiypa&show_icons=true&theme=dark" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/jiypa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiypa&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Top Languages" />
+</a>
 
 #### 🔖 Tech Stack
 
