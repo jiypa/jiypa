@@ -39,8 +39,8 @@ Hi there, I'm yeebay 👋
 
 ---
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=jiypa&show_icons=true&theme=dark" alt="yeebay's GitHub Stats" />
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jiypa&layout=compact&langs_count=8&card_width=300&theme=dark" alt="yeebay's Top Languages" />
+<img height=160 src="https://github-readme-stats.vercel.app/api?username=jiypa&show_icons=true&theme=dark" alt="yeebay's GitHub Stats" />
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=jiypa&layout=compact&langs_count=8&card_width=320&theme=dark" alt="yeebay's Top Languages" />
 
 #### 🔖 Tech Stack
 
