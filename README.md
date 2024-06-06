@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align=center>
 
-<img width=100 src="./assets/images/avatar.png" alt="yeebay" style="border-radius: .5rem" />
+<img width=100 src="./assets/images/avatar.png" alt="yeebay" />
 
 </p>
 
@@ -40,7 +40,7 @@ Hi there, I'm yeebay 👋
 ---
 
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=jiypa&show_icons=true&theme=dark" alt="yeebay's GitHub Stats" />
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jiypa&layout=compact&langs_count=8&card_width=320&theme=dark" alt="yeebay's Top Languages" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jiypa&layout=compact&langs_count=8&card_width=300&theme=dark" alt="yeebay's Top Languages" />
 
 #### 🔖 Tech Stack
 
