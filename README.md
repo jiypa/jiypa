@@ -48,7 +48,7 @@ Hi there, I'm yeebay 👋
 
 #### 🔖 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,less,js,ts,react,vue,nodejs,c,java,python,php)](https://github.com/jiypa)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,less,js,ts,react,vue,nodejs,c,java,python,php,docker)](https://github.com/jiypa)
 
 ---
 
