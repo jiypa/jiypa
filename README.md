@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align=center>
 
-<img width=100 src="./assets/images/avatar.png" alt="yeebay" />
+<img src="./assets/images/avatar.jpg" alt="yeebay" width="100" height="100">
 
 </p>
 
