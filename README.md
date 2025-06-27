@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center>
+<div align="center">
 
-<img src="./assets/images/avatar.jpg" alt="yeebay" width="100" height="100">
+<img src="./assets/images/avatar.jpg" alt="Peter Jee" width="100" height="100">
 
-</p>
+</div>
 
-<h2 align=center>
-Hi there, I'm yeebay 👋
+<h2 align="center">
+Hi there, I'm Peter Jee 👋
 </h2>
 
-<div align=center>
+<div align="center">
 
 [![Github Stars](https://img.shields.io/github/stars/jiypa?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/jiypa)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jiypa)
