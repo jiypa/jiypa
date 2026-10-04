@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <h2 align="center">
-Hi there, I'm Peter Jee 👋
+Hi there, I'm Siddhartha 👋
 </h2>
 
 <div align="center">
